@@ -25,13 +25,13 @@ export const ProductPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: center top;
-        backgroundSize: contain;
-        backgroundRepeat: no-repeat;
-        justifyContent: left;
-        alignItems: baseline;
-        maxWidth: 1144px;
-        margin: auto;
+        backgroundPosition: `center top`;
+        backgroundSize: `contain`;
+        backgroundRepeat: `no-repeat`;
+        justifyContent: `left`;
+        alignItems: `baseline`;
+        maxWidth: `1144px`;
+        margin: `auto`;
       }}
     >
       <h2
