@@ -25,9 +25,10 @@ export const IndexPageTemplate = ({
         backgroundPosition: `top center`,
         backgroundSize: `contain`,
         backgroundRepeat: `no-repeat`,
-        height:`600`,
         justifyContent: `left`,
         alignItems: `baseline`,
+        maxWidth: `1144px`;
+        margin: `auto`;
       }}
     >
       <div
@@ -43,10 +44,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
+            color: 'black',
             lineHeight: '1',
             padding: '0.25em',
           }}
@@ -56,10 +54,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
+            color: 'black',
             lineHeight: '1',
             padding: '0.25em',
           }}
