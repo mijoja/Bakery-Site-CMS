@@ -25,9 +25,10 @@ export const IndexPageTemplate = ({
         backgroundPosition: `top center`,
         backgroundSize: `contain`,
         backgroundRepeat: `no-repeat`,
-        height:`600`,
         justifyContent: `left`,
         alignItems: `baseline`,
+        maxWidth: `1144px`;
+        margin: `auto`;
       }}
     >
       <div
