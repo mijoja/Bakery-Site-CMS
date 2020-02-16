@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/Mapianas.png
-heading: Great coffee with a conscience
+heading: MapiAna's Bakery
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
