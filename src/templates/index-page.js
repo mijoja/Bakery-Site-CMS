@@ -27,8 +27,8 @@ export const IndexPageTemplate = ({
         backgroundRepeat: `no-repeat`,
         justifyContent: `left`,
         alignItems: `baseline`,
-        maxWidth: `1144px`;
-        margin: `auto`;
+        maxWidth: `1144px`,
+        margin: `auto`,
       }}
     >
       <div
