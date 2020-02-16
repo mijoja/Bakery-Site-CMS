@@ -1,8 +1,8 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Favorites
 image: /img/Mapianas.png
-heading: Great coffee with a conscience
+heading: Here is a selection of our favorites!
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
